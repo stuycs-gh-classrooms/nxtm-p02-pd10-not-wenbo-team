@@ -5,16 +5,18 @@
 ---
 
 ### Project Description
-Provide a high-level description of your project. Include explanatory links if you think they will be helpful.
+3d snake. its normal snake but you get to jump up 1 block (Look at snakeybus for reference).
+2 types of fruit. one fruit on the ground and 1 in the air.
 
 ### Skill Usage
-Explain what skills from this semester you will be using in this project, and how they will be used.
+2d arrays for the base grid
 
 ### Controls
 How will your program be controlled? List all keyboard commands and mouse interactions.
 
 Keyboard Commands:
-- LIST OF COMMANDS HERE
+- WASD for snake control
+- Space to jump
 
 Mouse Control:
 - Mouse movement:
