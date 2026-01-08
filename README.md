@@ -32,4 +32,6 @@ Class Game:
 Class Snake:
 - snake length
 - snake movement and jump
-- 
+- use 2d arrays to memorize position
+  Vars:
+  - 
