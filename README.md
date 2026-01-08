@@ -1,20 +1,22 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jiVqpuMN)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22153811)
 # NeXtCS Final Project
-### Name 0: YOUR NAME HERE
-### Name 1: OTHER NAME HERE (delete this line if not applicable)
-### Name 2: OTHER NAME HERE (delete this line if not applicable)
+### Name 0: Wenbo Zhou
 ---
 
 ### Project Description
-Provide a high-level description of your project. Include explanatory links if you think they will be helpful.
+3d snake. its normal snake but you get to jump up 1 block (Look at snakeybus for reference).
+2 types of fruit. one fruit on the ground and 1 in the air.
 
 ### Skill Usage
-Explain what skills from this semester you will be using in this project, and how they will be used.
+2d arrays for the base grid
 
 ### Controls
 How will your program be controlled? List all keyboard commands and mouse interactions.
 
 Keyboard Commands:
-- LIST OF COMMANDS HERE
+- WASD for snake control
+- Space to jump
 
 Mouse Control:
 - Mouse movement:
@@ -22,4 +24,14 @@ Mouse Control:
 
 
 ### Classes
-What classes will you be creating for this project? Include the instance variables and methods that you believe you will need. You will be required to create at least 2 different classes. If you are going to use classes similar to those we've made for previous assignments, you will have to add new features to them.
+Class Game:
+- Display grid
+- set score
+- time
+
+Class Snake:
+- snake length
+- snake movement and jump
+- use 2d arrays to memorize position
+  Vars:
+  - 
